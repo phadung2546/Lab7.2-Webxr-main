@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LAB 7 WEBXR.unity
+    guid: be6b670f9671814469844e89a73bac3a
   m_configObjects:
     WebXR.Settings: {fileID: 11400000, guid: 61193cc43576f5c4e97266256e2f6bb3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cfec54b6b7b98a240892833c32b41b3d, type: 2}
